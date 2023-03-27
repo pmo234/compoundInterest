@@ -1,0 +1,15 @@
+/Users/user/Projects/Compound_Interest/Compound_Interest/bin/Debug/net7.0/Compound_Interest
+/Users/user/Projects/Compound_Interest/Compound_Interest/bin/Debug/net7.0/Compound_Interest.deps.json
+/Users/user/Projects/Compound_Interest/Compound_Interest/bin/Debug/net7.0/Compound_Interest.runtimeconfig.json
+/Users/user/Projects/Compound_Interest/Compound_Interest/bin/Debug/net7.0/Compound_Interest.dll
+/Users/user/Projects/Compound_Interest/Compound_Interest/bin/Debug/net7.0/Compound_Interest.pdb
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.csproj.AssemblyReference.cache
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.AssemblyInfoInputs.cache
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.AssemblyInfo.cs
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.dll
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/refint/Compound_Interest.dll
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.pdb
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/Compound_Interest.genruntimeconfig.cache
+/Users/user/Projects/Compound_Interest/Compound_Interest/obj/Debug/net7.0/ref/Compound_Interest.dll
